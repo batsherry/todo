@@ -1,0 +1,21 @@
+head1 {
+	position: absolute;
+	
+	width: 100%;
+	font-size: 80px;
+	font-weight: 200;
+	text-align: center;
+	color: #1ad072;;
+	
+	text-rendering: optimizeLegibility;
+}
+
+.se {
+	background: #fff;
+	margin: 150px 40 40px 40;
+    position:absolute;
+	text-align: center;
+    top:100px;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
+	            0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
